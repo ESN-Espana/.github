@@ -1,3 +1,11 @@
+```
+   __  __      __   __             _       
+  /__\/ _\  /\ \ \ / _\_ __   __ _(_)_ __  
+ /_\  \ \  /  \/ / \ \| '_ \ / _` | | '_ \ 
+//__  _\ \/ /\  /  _\ \ |_) | (_| | | | | |
+\__/  \__/\_\ \/   \__/ .__/ \__,_|_|_| |_|
+                      |_|                  
+```
 # 👋 Hi, We are ESN Spain!
 
 We are the National Organisation representing the Erasmus Student Network (ESN) in Spain, fostering intercultural exchange, supporting international students, and promoting mobility since 1998.
